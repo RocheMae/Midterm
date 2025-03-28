@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <picture>https://i.pinimg.com/736x/6f/51/c0/6f51c075bfdb80dd33df4a163f36cdf4.jpg</picture>
+        <name>Roche Mae B. Bagolboc</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/c3/b5/fa/c3b5fa1f31ce781355291779fcd0e627.jpg</picture>
+        <name>Maria Santos</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/ce/da/74/ceda7432e85bfedd3644bfc1e3e5b0c6.jpg</picture>
+        <name>Pedro Reyes</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/19/1c/84/191c84af6327227c337a19dd158c9657.jpg</picture>
+        <name>Lisa Mendoza</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/63/50/41/635041c255371b3e196f5adb404deb0b.jpg</picture>
+        <name>Jose Garcia</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/32/78/1b/32781b0f86f182230411724ecf78b587.jpg</picture>
+        <name>Carla Hernandez</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/7e/22/c2/7e22c295dd399ec79c859104795818bc.jpg</picture>
+        <name>Mark Valdez</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/26/57/e8/2657e803a6416dfd16f3ecb7f5e70116.jpg</picture>
+        <name>Sarah Lim</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/52/b4/da/52b4dac88f4e8e8cd5ad73a3107c2bed.jpg</picture>
+        <name>Antonio Rodriguez</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+    <student>
+        <picture>https://i.pinimg.com/736x/c4/3c/7d/c43c7d3a5d774d181dc593686c6ac6ed.jpg</picture>
+        <name>Diana Cruz</name>
+        <course>BSIT</course>
+        <year_section>3bg2</year_section>
+        <adviser>Mr. Ramos</adviser>
+        <school_year>2025-2026</school_year>
+    </student>
+</students>
